@@ -4,6 +4,12 @@
 
 ### Data Analyst in the Making · Power BI · Python · SQL · Excel
 
+</div>
+
+---
+
+<div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
 ![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
