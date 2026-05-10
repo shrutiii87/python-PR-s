@@ -4,13 +4,17 @@
 
 ### Data Analyst in the Making · Power BI · Python · SQL · Excel
 
+[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
+![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
@@ -22,7 +26,7 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 <br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 🛠️ Tools
 
@@ -43,7 +47,7 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 📬 Connect With Me
 
@@ -54,4 +58,10 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+<div align="center">
+
+*"Data is the new chai — best consumed fresh and with purpose."* ☕
+
+</div>
