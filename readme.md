@@ -1,28 +1,31 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=150&section=header&animation=fadeIn)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+# Hey! It's Shruti Bhawsar!
+
 <div align="center">
 
-# Hey, I'm Shruti Bhawsar 👋
+**Data Analyst**
 
-### Data Analyst in the Making · Power BI · Python · SQL · Excel
-
-[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
-![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
+I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver actionable insights from data. Love to explore new datasets and find patterns that matter.
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-## 👩‍💻 About Me
+## 💬 About me ...
 
-<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="380" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
-I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
-
-- 🌍 I'm based in Ahmedabad
-- 💬 My portfolio is on GitHub → [shrutiii87](https://github.com/shrutiii87)
-- 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
-- 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
-- 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
+- 🌍 I'm based in Ahmedabad, India
+- 💼 Data Intern at **Red & White Skill Education**
+- 🔭 Building a portfolio across **Power BI · Python · SQL · Excel**
+- 📊 Deep into **DAX**, **data modeling**, and interactive dashboards
+- 🤖 I'm learning **AI & ML** at Red & White Multimedia Institute
+- 🎯 I'm looking to land a role in **BFSI / Healthcare / Retail**
+- 💬 Ask me about `Power BI` , `Python` , `SQL` , `Excel` , `DAX`
+- ☕ Powered by chai (twice a day, no exceptions)
 
 <br clear="right"/>
 
@@ -49,6 +52,18 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -58,10 +73,4 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<div align="center">
-
-*"Data is the new chai — best consumed fresh and with purpose."* ☕
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
