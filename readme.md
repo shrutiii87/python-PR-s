@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding Girl" width="340" src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/main/girl-coding.gif"/>
+<img align="right" alt="Coding Girl" width="340" src="[https://raw.githubusercontent.com/shrutiii87/shrutiii87/main/girl-coding.gif](https://i.pinimg.com/originals/ad/66/68/ad6668ab2ea7cfdf1d939c76452900f0.gif)"/>
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
