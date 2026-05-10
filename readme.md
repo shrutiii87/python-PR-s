@@ -59,9 +59,3 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 </div>
 
 ---
-
-<div align="center">
-
-*"Data is the new chai — best consumed fresh and with purpose."* ☕
-
-</div>
