@@ -5,8 +5,7 @@
 ### Data Analyst in the Making · Power BI · Python · SQL · Excel
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
-![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)<img width="498" height="367" alt="ad6668ab2ea7cfdf1d939c76452900f0" src="https://github.com/user-attachments/assets/ec9aa848-6fc4-46eb-a563-02b1ef331176" />
-
+![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
 
 </div>
@@ -15,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding Girl" width="340" src="[https://raw.githubusercontent.com/shrutiii87/shrutiii87/main/girl-coding.gif](https://i.pinimg.com/originals/ad/66/68/ad6668ab2ea7cfdf1d939c76452900f0.gif)"/>
+<img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/originals/ad/66/68/ad6668ab2ea7cfdf1d939c76452900f0.gif"/>
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
@@ -47,6 +46,7 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
+
 ---
 
 ## 📬 Connect With Me
