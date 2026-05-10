@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-i can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, Excel . 
+I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
@@ -24,19 +24,29 @@ i can turn raw data into meaningful stories. Currently leveling up through a str
 
 ## 🛠️ Tech Stack
 
-| Category | Tools |
-|---|---|
-| **BI & Visualization** | Power BI, DAX, Power Query (M Language) |
-| **Programming** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| **Database** | SQL, SQLite |
-| **Spreadsheets** | Microsoft Excel (Pivot Tables, Charts, Dashboards) |
-| **Other** | Jupyter Notebook, GitHub, Canva |
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
 ## 🎯 Currently Learning
 
-- Currently learning AIML at red and white multimedia institute .
+- 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
 
 ---
 
