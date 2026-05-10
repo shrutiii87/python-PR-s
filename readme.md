@@ -17,7 +17,8 @@
 <img align="right" alt="Coding Girl" width="320" src="https://i.pinimg.com/originals/ad/66/68/ad6668ab2ea7cfdf1d939c76452900f0.gif"/>
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
-
+- 🌍 I'm based in Ahemdabad .
+- 💬 My portfolio is .
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
 - 🎯 Goal: Land a **Data Analyst role** in BFSI / Healthcare / Retail
