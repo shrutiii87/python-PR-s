@@ -46,19 +46,6 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=default&hide_border=true)
-
-</div>
-
 ---
 
 ## 📬 Connect With Me
