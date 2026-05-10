@@ -1,30 +1,25 @@
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-# Hey, I'm Shruti Bhawsar 👋
+# Hey! It's Shruti Bhawsar! 
 
-### Data Analyst in the Making · Power BI · Python · SQL · Excel
+<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
-![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
+**Data Analyst**
 
-</div>
+I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoys turning raw data into meaningful stories and building interactive dashboards. Problem-solving mindset with a goal to deliver actionable insights from data. Love to work with real-world datasets.
+
+<br clear="right"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
-
-I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
-
-- 🌍 I'm based in Ahmedabad
-- 💬 My portfolio is on GitHub → [shrutiii87](https://github.com/shrutiii87)
+- 🌍 Based in Ahmedabad, India
+- 💼 Data Intern at **Red & White Skill Education**
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
 - 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
-
-<br clear="right"/>
+- ☕ Powered by chai (twice a day, no exceptions)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
@@ -44,6 +39,18 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
