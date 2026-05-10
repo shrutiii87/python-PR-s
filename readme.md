@@ -21,9 +21,7 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 - 💬 My portfolio is .
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
-- 🎯 Goal: Land a **Data Analyst role** in BFSI / Healthcare / Retail
 - 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
-- ☕ Powered by chai (twice a day, no exceptions)
 
 <br clear="right"/>
 
