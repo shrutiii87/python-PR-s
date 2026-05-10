@@ -4,21 +4,31 @@
 
 ### Data Analyst in the Making · Power BI · Python · SQL · Excel
 
+[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
+![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
+
 </div>
 
 ---
 
 ## 👩‍💻 About Me
 
+<img align="right" alt="Coding Girl" width="340" src="https://raw.githubusercontent.com/shrutiii87/shrutiii87/main/girl-coding.gif"/>
+
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
 - 🎯 Goal: Land a **Data Analyst role** in BFSI / Healthcare / Retail
+- 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
+- ☕ Powered by chai (twice a day, no exceptions)
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tools 
+## 🛠️ Tools
 
 <div align="center">
 
@@ -39,9 +49,15 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 
 ---
 
-## 🎯 Currently Learning
+## 📈 GitHub Stats
 
-- 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
+<div align="center">
+
+![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=default&hide_border=true)
+
+</div>
 
 ---
 
@@ -50,8 +66,14 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
+
 ---
+
+<div align="center">
+
+*"Data is the new chai — best consumed fresh and with purpose."* ☕
 
 </div>
