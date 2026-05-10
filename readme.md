@@ -14,13 +14,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Data Intern at Red & White Skill Education** (Ahmedabad) with a passion for turning raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, Excel, ML, Deep Learning, GenAI & NLP.
+i can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, Excel . 
 
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
-- 🌱 Currently learning: **Machine Learning · Deep Learning · GenAI · NLP**
 - 🎯 Goal: Land a **Data Analyst role** in BFSI / Healthcare / Retail
-- ☕ Powered by chai (twice a day, no exceptions)
 
 ---
 
@@ -38,9 +36,7 @@ I'm a **Data Intern at Red & White Skill Education** (Ahmedabad) with a passion 
 
 ## 🎯 Currently Learning
 
-- ⚡ Advanced DAX — RANKX, SWITCH, dynamic measure toggling, bookmarks
-- 🤖 Machine Learning, Deep Learning & GenAI
-- 🗣️ NLP fundamentals
+- Currently learning AIML at red and white multimedia institute .
 
 ---
 
