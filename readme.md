@@ -2,6 +2,8 @@
 
 # Hey! It's Shruti Bhawsar!
 
+</div>
+
 <div align="center">
 
 **Data Analyst**
