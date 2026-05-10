@@ -13,12 +13,13 @@
 ---
 
 ## 👩‍💻 About Me
-<img width="320" alt="oopaze - Overview" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
+<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
-- 🌍 I'm based in Ahemdabad .
-- 💬 My portfolio is .
+
+- 🌍 I'm based in Ahmedabad
+- 💬 My portfolio is on GitHub → [shrutiii87](https://github.com/shrutiii87)
 - 🔭 Building an analytics portfolio across **Power BI · Python · SQL · Excel**
 - 📊 Deep into **DAX**, **data modeling**, and interactive dashboard design
 - 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
@@ -53,7 +54,14 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=for-the-badge&logo=github)](https://github.com/shrutiii87)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
 
 </div>
 
 ---
+
+<div align="center">
+
+*"Data is the new chai — best consumed fresh and with purpose."* ☕
+
+</div>
