@@ -12,7 +12,7 @@ I'm a Data Analyst with proficiency in Power BI, Python, SQL and Excel who enjoy
 
 ## 💬 About me ...
 
-<img align="right" width="380" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="280" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 - 🌍 I'm based in Ahmedabad, India
 - 💼 Data Intern at **Red & White Skill Education**
