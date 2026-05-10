@@ -4,10 +4,6 @@
 
 ### Data Analyst in the Making · Power BI · Python · SQL · Excel
 
-[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
-![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
-
 </div>
 
 ---
@@ -37,7 +33,6 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
@@ -47,18 +42,6 @@ I can turn raw data into meaningful stories. Currently leveling up through a str
 ## 🎯 Currently Learning
 
 - 🤖 Currently learning **AI & ML** at Red & White Multimedia Institute
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Shruti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrutiii87&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutiii87&layout=compact&theme=default&hide_border=true)
-
-</div>
 
 ---
 
