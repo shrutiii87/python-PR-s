@@ -8,16 +8,6 @@
 
 ---
 
-<div>
-
-[![GitHub](https://img.shields.io/badge/GitHub-shrutiii87-181717?style=flat&logo=github)](https://github.com/shrutiii87)
-![Location](https://img.shields.io/badge/📍-Ahmedabad,%20India-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat)
-
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 <img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
