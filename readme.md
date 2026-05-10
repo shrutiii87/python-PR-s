@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="320" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
+<img align="right" width="300" alt="coding gif" src="https://github.com/user-attachments/assets/5f4dd768-ef28-4eac-aff0-59903d1a189c" />
 
 I can turn raw data into meaningful stories. Currently leveling up through a structured course in Power BI, Python, SQL, and Excel.
 
